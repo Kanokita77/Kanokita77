@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there my name is Afif. 👋
 
-<!--
-**Kanokita77/Kanokita77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently learning software quality assurance.
 
-Here are some ideas to get you started:
+I have finished Udemy bootcamp / courses:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. https://www.udemy.com/share/103hQO3@PJwMdsSErzzPnqZoBZeio8i6OHE2-3sjPfrjaIWNqKuRzZttxutFp5DDF2SHIgcCNw==/
+2. https://www.udemy.com/share/108JPG3@9tGh07nTcyi3uv7A6YHRa6shpNmNrqoApFjpnZZ3bJupFzXupn7RSuqhTqYlLNjggQ==/
+
+I also learn mobile app quality assurance / manual test. Here is my work :
+
+1. https://docs.google.com/spreadsheets/d/1O3Kb1y_n7qomVb6dkjs3KK-RlWZh9f0PsYDZ8zIk1pM/edit#gid=0
+2. https://docs.google.com/spreadsheets/d/1EJ_k1gGPB3-LC7mRdQAiVizlI4NAUdFBQUjba0SuXsc/edit?hl=id#gid=0
+
+I eager to learn automation test in the near future.
